@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore audio files
+audio_files/
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other common unwanted files
+*.pyc
+.DS_Store
