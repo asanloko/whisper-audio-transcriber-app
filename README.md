@@ -3,7 +3,7 @@ This app is built with streamlit and Whisper. This helps to transcribe any audio
 
 ## How to run the code 
 
-**Step 1**: clone this repository. Learn to do so [here] (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+**Step 1**: clone this repository. Learn to do so [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 **Step 2**: Install all the requirements as seen below
 
