@@ -1,4 +1,4 @@
-# whisper-audio-transcriber-app
+# Whisper-Audio-Transcriber-App
 This app is built with streamlit and Whisper. This helps to transcribe any audio format in English. You are at liberty to choose any Whisper model of choice
 
 ## How to run the code 
