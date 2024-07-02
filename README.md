@@ -7,7 +7,7 @@ step 1: clone this repository. Learn to do so here
 
 step 2: Install all the requirements as seen below
 
-``` pip install -r requirements'''
+``` pip install -r requirements```
 
 step 3: Run the app.py using
 ```streamlit run app.py```
