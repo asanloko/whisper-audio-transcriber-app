@@ -1,2 +1,2 @@
 # whisper-audio-transcriber-app
-This app is built with stramlit and Whisper
+This app is built with streamlit and Whisper
